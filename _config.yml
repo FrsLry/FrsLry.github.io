@@ -9,8 +9,6 @@
 # Then, on this "_config.yml", copy-paste-adpat a chunck in the "defaults" section.
 # To add stuff in the new tab, create an .md file in "_pages" which as the same tab name
 
-# Theme
-# minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default" (unnecessary)
 
 # Site Settings
 locale                   : "en-US"
