@@ -10,7 +10,7 @@
 # To add stuff in the new tab, create an .md file in "_pages" which as the same tab name
 
 # Theme
- minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default" (unnecessary)
+# minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default" (unnecessary)
 
 # Site Settings
 locale                   : "en-US"
