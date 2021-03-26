@@ -60,4 +60,4 @@ redirect_from:
   * Currently signed in to 43 different slack teams
 -->
 
-![CV](../CV_leroy.jpg)
+![CV](files/CV_leroy.png)
