@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+![cv](files/CV_leroy.png)
+
 <!---
  {% include base_path %}
  
@@ -59,5 +62,3 @@ redirect_from:
   ======
   * Currently signed in to 43 different slack teams
 -->
-
-![CV](files/CV_leroy.png)

@@ -4,6 +4,7 @@ title: "Create a new tab"
 author_profile: true
 ---
 
+![cv](files/CV_leroy.png)
 
 To create a new tab: 
 
