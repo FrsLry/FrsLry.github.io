@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+PDF available [here]()
+
 ![cv](../images/CV_leroy.png)
 
 <!---
