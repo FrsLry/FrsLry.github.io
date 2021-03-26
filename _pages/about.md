@@ -10,5 +10,3 @@ redirect_from:
 
 
 World Premiere
-
-![cv](files/CV_leroy.png)

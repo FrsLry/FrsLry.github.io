@@ -1,5 +1,5 @@
 ---
-permalink: /justamd/
+permalink: /
 title: "Create a new tab"
 author_profile: true
 ---
