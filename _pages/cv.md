@@ -1,15 +1,16 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-![cv](../images/CV_leroy.png)
+![cv](../files/CV_leroy.pdf)
 
 <!---
+![cv](../images/CV_leroy.png)
  {% include base_path %}
  
  Education
