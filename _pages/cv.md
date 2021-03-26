@@ -7,10 +7,9 @@ redirect_from:
   - /resume
 ---
 
-![cv](../files/CV_leroy.png)
+![cv](../images/CV_leroy.png)
 
 <!---
-![cv](../images/CV_leroy.png)
  {% include base_path %}
  
  Education
