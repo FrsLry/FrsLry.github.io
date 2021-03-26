@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-PDF available [here](https://github.com/FrsLry/FrsLry.github.io/raw/master/images/CV_leroy.pdf)
+PDF available [here](https://github.com/FrsLry/CV_LeroyFrancois/raw/master/CV_leroy.pdf)
 
 ![cv](../images/CV_leroy.png)
 
