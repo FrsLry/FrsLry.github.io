@@ -3,29 +3,30 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
+  - title: "CV"
+    url: /cv/
+
   #- title: "Talks"
   #  url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
 
-  - title: "Create a tab"
-    url: /justamd/
+  #- title: "Create a tab"
+  #  url: /justamd/
 
   #- title: "2nd new tab"
   #  url: /sectab/
 
-  - title: "Projects"
-    url: /projects/

@@ -12,7 +12,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home" #"Your Name / Site Title"
+title                    : "Presentation" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "François Leroy"
 description              : &description "François Leroy personal website"
@@ -24,7 +24,7 @@ breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
