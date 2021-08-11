@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am graduated from the [Msc Marine Sciences](http://sciencesdelamer.sorbonne-universite.fr/) of Sorbonne University where I focused mainly on statistical modeling of community dynamic (see the [Projects](https://frslry.github.io/projects/) tab to see my Master thesis project). 
+I am graduated from the [Msc Marine Sciences](http://sciencesdelamer.sorbonne-universite.fr/) of Sorbonne University where I focused mainly on statistical modeling of community dynamic. 
 
 I started my PhD in macroecology in October 2020 at the Czech University of Life Sciences in Prague, at the [Dept. of Spatial Sciences](https://www.fzp.czu.cz/en/r-9407-departments/r-9471-departments/r-9649-department-of-spatial-sciences) under [Petr Keil](https://petrkeil.github.io/website/) supervision.
 
