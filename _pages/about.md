@@ -14,4 +14,4 @@ I started my PhD in macroecology in October 2020 at the Czech University of Life
 
 The main goal of my PhD is to **understand the link between biodiversity dynamic and spatio-temporal scales**. This link being [taxon dependent](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.05968), I decided to focus on avian biodiversity. To tackle this problem, I am using machine learning methods to develop a framework that could be used on other taxa. 
 
-Coding represent more than 50% of my research time. The [R programming language](https://www.r-project.org/) is my main language but I also use [Julia](https://julialang.org/), [Python](https://www.python.org/) and a lot of different langugages (see [my CV](https://frslry.github.io/cv/)).  
+Coding represent more than 50% of my research time. The [R programming language](https://www.r-project.org/) is my main language but I also use [Julia](https://julialang.org/), [Python](https://www.python.org/) and other different languages (see [my CV](https://frslry.github.io/cv/)).  
