@@ -12,7 +12,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Presentation" #"Your Name / Site Title"
+title                    : "Home" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "François Leroy"
 description              : &description "François Leroy personal website"
