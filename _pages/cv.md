@@ -9,7 +9,7 @@ redirect_from:
 
 PDF available [here](https://github.com/FrsLry/CV_LeroyFrancois/raw/master/CV_leroy.pdf)
 
-![cv](../images/CV_leroy.png)
+![cv](/images/CV_leroy.png)
 
 <!---
  {% include base_path %}
