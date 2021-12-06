@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/dbn.jpg){:width="600px" .align-center}
+![](/images/map-pres.jpg){:width="600px" .align-center}
 
 I am graduated from the [Msc Marine Sciences](http://sciencesdelamer.sorbonne-universite.fr/) of Sorbonne University where I focused mainly on statistical modeling of community dynamic. 
 
