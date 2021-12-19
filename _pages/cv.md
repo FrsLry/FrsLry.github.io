@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-PDF available [here](https://github.com/FrsLry/CV_LeroyFrancois/raw/master/CV_leroy.pdf)
+PDF available [here](https://github.com/FrsLry/CV/blob/main/cv_7.pdf)
 
-![cv](/images/CV_leroy.png)
+![cv](/images/CV_leroy.jpg)
 
 <!---
  {% include base_path %}
