@@ -35,4 +35,14 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<pdf-viewer [show-all]="false"
+			[autoresize]="true"
+			[original-size]="true"
+			[fit-to-page]="true"
+			[render-text]="false"
+			[page]="page$ | async"
+			[zoom]="zoom$ | async"
+			(page-rendered)="pageRendered($event)"
+			[src]="src"></pdf-viewer>
+
 <!-- end custom head snippets -->

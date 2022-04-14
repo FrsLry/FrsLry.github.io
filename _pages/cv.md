@@ -9,9 +9,13 @@ redirect_from:
 
 PDF available [here](https://github.com/FrsLry/CV/blob/main/cv_7.pdf)
 
-![cv](/images/CV_leroy.jpg)
+
+<embed src="/images/cv.pdf" type="application/pdf" height="800px">
+
 
 <!---
+![cv](/images/CV_leroy.jpg)
+
  {% include base_path %}
  
  Education
