@@ -10,7 +10,7 @@ redirect_from:
 PDF available [here](https://github.com/FrsLry/CV/blob/main/cv_7.pdf)
 
 
-<embed src="/images/cv.pdf" type="application/pdf" height="800px">
+<embed src="/images/cv.pdf" type="application/pdf" height="300px">
 
 
 <!---
