@@ -18,4 +18,4 @@ The main goal of my PhD is to **understand the link between biodiversity dynamic
 
 Coding represent more than 50% of my research time. The [R programming language](https://www.r-project.org/) is my main language but I also use [Julia](https://julialang.org/), [Python](https://www.python.org/) and other different languages (see [my CV](https://frslry.github.io/cv/)).  
 
-My PhD is currently funded by the [REES program](https://www.fzp.czu.cz/en/r-9676-news/announcement-of-rees.html). 
+My PhD is now fully funded by Petr's [ERC grant](https://petrkeil.github.io/news/2022/07/08/ERC.html). 
