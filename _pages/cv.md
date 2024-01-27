@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-PDF available [here](https://github.com/FrsLry/CV/blob/main/cv_7.pdf)
+PDF available [here](https://github.com/FrsLry/CV/blob/main/cv.pdf)
 
 
 <embed src="/images/cv.pdf" type="application/pdf" height="300px">
