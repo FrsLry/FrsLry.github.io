@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "François Leroy"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg" #"profile.png"
   bio              : "Researcher in Macroecology and Biogeography"
   location         : "Columbus, OH, USA"
   employer         : 
