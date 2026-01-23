@@ -37,6 +37,12 @@
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.excerpt %}
+      {% assign excerpt_text = post.excerpt | strip_html %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ excerpt_text | truncatewords: 40 }}
+        <a class="archive__item-readmore" href="{{ base_path }}{{ post.url }}" aria-label="Read full talk: {{ title }}">Read more →</a>
+      </p>
+    {% endif %}
   </article>
 </div>
